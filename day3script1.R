@@ -16,5 +16,4 @@ x <- 1:10
 library(usethis)
 use_git_config(user.name = "EShilland",
                user.email = "e.shilland@ucl.ac.uk")
-
-3
+gitcreds::gitcreds_set()
