@@ -10,3 +10,11 @@ print("hello")
 
 # Make x
 x <- 1:10
+
+#not working will try credentials again
+
+library(usethis)
+use_git_config(user.name = "EShilland",
+               user.email = "e.shilland@ucl.ac.uk")
+
+3
