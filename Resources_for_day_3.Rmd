@@ -1,0 +1,27 @@
+# Resources for day 3
+
+The book this course material is based on: https://www.britishecologicalsociety.org/wp-content/uploads/2019/06/BES-Guide-Reproducible-Code-2019.pdf
+
+Example code to look at:
+github.com/nhcooper123/sex-bias-museums
+
+## R stuff
+- Google R style guide: https://google.github.io/styleguide/Rguide.html
+- What they forgot to teach you about R: https://rstats.wtf/
+- Using different versions of packages renv = https://rstudio.github.io/renv/articles/renv.html
+
+## Git
+- Setting up Git presentation
+- https://happygitwithr.com/
+- http://rogerdudler.github.io/git-guide/
+- https://ohshitgit.com/
+- https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things
+- https://nicercode.github.io/modules/
+
+## R Markdown
+- https://rmarkdown.rstudio.com/articles_intro.html
+- https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf
+- https://blogs.reed.edu/ed-tech/2015/11/r-markdown-senior-thesis-template/
+
+## Other BES guides
+www.britishecologicalsociety.org/publications/guides-to/

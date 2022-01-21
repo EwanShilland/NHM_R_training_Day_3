@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 #to get it to do some r stuff add three tick like this
 
 ```{r}
-print(hello)
+print("hello")
 
 ```
 
