@@ -14,6 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ###subsubheading
 
 #to get it to do some r stuff add three tick like this
+#![Alt text](https://media4.giphy.com/media/jR06ub8jXk4ejsIhOo/200w.webp)
 
 ```{r}
 print("hello")
